@@ -1,9 +1,6 @@
 ## Title
 
-Draft titles: 
-
-* Writing compiler plugins with Arrow Meta (too generic?)
-* Extending kotlinx.serialization functionality with Arrow Meta
+Extending kotlinx.serialization functionality with Arrow Meta
 
 ## Abstract
 
